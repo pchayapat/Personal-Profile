@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Chayapat</h1>
 <h3 align="center">My name is Chayapat Peeranoppawat. I’m a fourth-year robotics engineering student at Institute of Field Robotics (FIBO), King Mongkut's University of Technology Thonburi, Thailand. I’m interested in Technology Trends such as robotics, virtual reality, augmented reality, mixed reality, the internet of things, artificial Intelligence, and other trend world technologies. The projects that I have done during my college years focus on working as a team to bring technologies to develop innovation to solve problems for target groups. I have a passion for creating something cool and useful.</h3>
 
-- 🌱 I’m currently learning **Augmented Reality, Artificial Intelligence**
+- 🌱 I’m currently learning **Mixed Reality, Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/chayapat-peeranoppawat-337a51258](www.linkedin.com/in/chayapat-peeranoppawat-337a51258)
 
