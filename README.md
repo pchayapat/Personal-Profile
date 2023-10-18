@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/chayapat peeranoppawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chayapat peeranoppawat" height="30" width="40" /></a>
 <a href="https://fb.com/chayapat peeranoppawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chayapat peeranoppawat" height="30" width="40" /></a>
 <a href="https://instagram.com/pchayapat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pchayapat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/verie" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg](https://www.youtube.com/channel/UCIOKXbS8iTozMUkqAF9InEA)" alt="verie" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/verie" target="blank"><img align="center" src="[[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg](https://www.youtube.com/channel/UCIOKXbS8iTozMUkqAF9InEA)](https://www.google.co.th/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AYoutube_logo.png&psig=AOvVaw2j0HsxU7adB37r_rX8hQnI&ust=1697709940175000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDgksGs_4EDFQAAAAAdAAAAABAE)" alt="verie" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
