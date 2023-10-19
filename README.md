@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Mixed Reality,Robotics, Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/chayapat-peeranoppawat](www.linkedin.com/in/chayapat-peeranoppawat)
+- 👨‍💻 All of my projects are available at www.linkedin.com/in/chayapat-peeranoppawat
 
 - 📫 How to reach me **chayapatppp@gmail.com**
 
